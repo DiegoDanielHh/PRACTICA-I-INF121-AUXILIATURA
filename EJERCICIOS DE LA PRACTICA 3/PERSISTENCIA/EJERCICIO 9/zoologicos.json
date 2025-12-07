@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zoo Central Renovado",
+    "nroAnimales": 3,
+    "animales": [
+      {
+        "especie": "Le\u00f3n",
+        "nombre": "Simba",
+        "cantidad": 3
+      },
+      {
+        "especie": "Tigre",
+        "nombre": "Raja",
+        "cantidad": 2
+      },
+      {
+        "especie": "Le\u00f3n",
+        "nombre": "Nala",
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Zoo Norte",
+    "nroAnimales": 0,
+    "animales": []
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"codCliente": "C001", "codLibro": "L001", "fechaPrestamo": "2025-01-10", "cantidad": 2},
+  {"codCliente": "C002", "codLibro": "L002", "fechaPrestamo": "2025-01-11", "cantidad": 1},
+  {"codCliente": "C001", "codLibro": "L001", "fechaPrestamo": "2025-02-02", "cantidad": 1}
+]

@@ -1,0 +1,5 @@
+[
+  {"codLibro": "L001", "titulo": "Algoritmos", "precio": 80.0},
+  {"codLibro": "L002", "titulo": "POO", "precio": 65.5},
+  {"codLibro": "L003", "titulo": "BD", "precio": 90.0}
+]

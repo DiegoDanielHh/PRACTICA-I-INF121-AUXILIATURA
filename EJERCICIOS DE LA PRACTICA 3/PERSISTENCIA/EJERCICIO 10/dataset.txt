@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Iris",
+    "instancias": 150,
+    "algoritmo": "KNN"
+  },
+  {
+    "nombre": "Titanic",
+    "instancias": 891,
+    "algoritmo": "Random Forest"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "mac": "AA:BB:CC:DD:EE:FF",
+    "nombre": "Laptop",
+    "velocidad": 300
+  },
+  {
+    "mac": "11:22:33:44:55:66",
+    "nombre": "Smartphone",
+    "velocidad": 150
+  }
+]

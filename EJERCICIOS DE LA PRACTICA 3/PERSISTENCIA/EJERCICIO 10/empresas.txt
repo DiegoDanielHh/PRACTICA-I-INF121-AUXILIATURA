@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "TechCorp",
+    "rubro": "Tecnolog\u00eda",
+    "empleados": 150
+  },
+  {
+    "nombre": "BuildCo",
+    "rubro": "Construcci\u00f3n",
+    "empleados": 80
+  }
+]

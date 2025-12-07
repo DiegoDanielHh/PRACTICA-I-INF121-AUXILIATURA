@@ -1,0 +1,5 @@
+[
+  {"codCliente": "C001", "ci": "123456", "nombre": "Diego", "apellido": "Suárez"},
+  {"codCliente": "C002", "ci": "654321", "nombre": "Ana", "apellido": "Pérez"},
+  {"codCliente": "C003", "ci": "777888", "nombre": "Luis", "apellido": "Torres"}
+]

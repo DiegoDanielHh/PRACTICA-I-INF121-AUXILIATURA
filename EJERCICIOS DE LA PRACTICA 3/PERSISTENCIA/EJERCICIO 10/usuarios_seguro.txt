@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "admin",
+    "contrasena": "admin123"
+  },
+  {
+    "nombre": "user1",
+    "contrasena": "pass456"
+  }
+]

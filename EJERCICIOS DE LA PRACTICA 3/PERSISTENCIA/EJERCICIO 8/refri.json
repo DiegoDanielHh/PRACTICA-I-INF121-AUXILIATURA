@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Leche Descremada",
+    "fechaVencimiento": "2024-12-10",
+    "cantidad": 2
+  },
+  {
+    "nombre": "Queso",
+    "fechaVencimiento": "2025-01-15",
+    "cantidad": 5
+  },
+  {
+    "nombre": "Mantequilla",
+    "fechaVencimiento": "2025-02-20",
+    "cantidad": 1
+  }
+]

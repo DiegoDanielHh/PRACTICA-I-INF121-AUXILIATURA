@@ -1,0 +1,1 @@
+[{"nombreFarmacia": "Farmacia Central", "sucursal": 1, "direccion": "Av. Principal", "medicamentos": [{"nombre": "Tapsin", "codMedicamento": 101, "tipo": "resfrio", "precio": 25.0}, {"nombre": "Jarabe", "codMedicamento": 102, "tipo": "tos", "precio": 60.0}, {"nombre": "Pastilla", "codMedicamento": 103, "tipo": "tos", "precio": 40.0}]}]
